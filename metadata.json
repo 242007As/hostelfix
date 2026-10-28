@@ -1,0 +1,6 @@
+{
+  "name": "HostelFix - Campus Logistics & Ticket Priority Triage",
+  "description": "Campus hostel maintenance dispatch and intelligent ticket priority triage platform for residential halls and facility caretakers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
